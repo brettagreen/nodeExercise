@@ -1,0 +1,17 @@
+{
+  "name": "nodeexercise",
+  "version": "1.0.0",
+  "description": "exercise time",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exercise"
+  ],
+  "author": "bagreen1",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.3"
+  }
+}
